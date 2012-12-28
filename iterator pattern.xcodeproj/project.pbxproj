@@ -31,6 +31,7 @@
 		C8E9AF99168DC85A00A89C48 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		C8E9AF9C168DC85A00A89C48 /* iterator pattern-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iterator pattern-Prefix.pch"; sourceTree = "<group>"; };
 		C8E9AF9D168DC85A00A89C48 /* iterator_pattern.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = iterator_pattern.1; sourceTree = "<group>"; };
+		C8E9AFA4168DC93E00A89C48 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +49,7 @@
 		C8E9AF87168DC85A00A89C48 = {
 			isa = PBXGroup;
 			children = (
+				C8E9AFA4168DC93E00A89C48 /* README.md */,
 				C8E9AF98168DC85A00A89C48 /* iterator pattern */,
 				C8E9AF95168DC85A00A89C48 /* Frameworks */,
 				C8E9AF93168DC85A00A89C48 /* Products */,
